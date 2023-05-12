@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sub-body {
+    margin: 0 120px;
+}
+
+.navbar {
+    background: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.nav-list {
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+    color:  #000000B0;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.smartwoman-logo {
+    font-family: 'Poppins', sans-serif;   
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.smart {
+    color: #76BC26;
+}
+
+.woman{
+    color: #000000;
+}
+
+.log-in-btn {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #000000B0;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    padding: 8px 20px;
+    text-align: center;
+}
+
+.register-btn {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    color: #FFFFFF;
+    background: #76BC26;
+    border: 1px solid #000000;
+    border-radius: 8px;
+    padding: 8px 20px;
+    text-align: center;
+}
+
