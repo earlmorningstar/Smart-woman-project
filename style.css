@@ -173,6 +173,7 @@ body {
   line-height: 33px;
   color: #000000;
   margin: 0 120px;
+  margin-bottom: 10px;
 }
 
 .easy-steps-div {
@@ -209,4 +210,13 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #FFFFFF;
+}
+
+#third-step {
+  margin-left: auto;
+
+}
+
+#second-step {
+  margin: 0 auto;
 }
