@@ -299,3 +299,45 @@ body {
   gap: 10px;
 }
 
+.smart-woman-reviews {
+  margin: 0 120px;
+  display: flex;
+  gap: 20px;
+}
+
+.review-box {
+  background: #CBE6AD;
+  border: 1px solid #CBE6AD;
+  border-radius: 18px;
+  padding: 10px;
+  box-shadow: 1.80731px 1.80731px 3.01219px rgba(0, 0, 0, 0.25);
+}
+
+.review-img-and-name {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.customer-name {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.customer-review {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 17px;
+  color: #000000;
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+
+.customer-star-ratings {
+  margin-left: 15px;
+}
